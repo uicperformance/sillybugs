@@ -1,6 +1,6 @@
 # The Sillybugs homework
 
-The program in this repository contains a number of severe performance bugs. First install the m4 macro preprocessor apt-get install m4, then clone the repository, then go to the folder codes/apps/raytrace and build the binary using make.
+The program in this repository contains a number of severe performance bugs. Clone the repository, then go to the folder codes/apps/raytrace and build the binary using make. You'll want to run this program on nodes.
 
 To run the program use this command line.
 
