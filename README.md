@@ -17,7 +17,7 @@ to make the programs take longer to run, potentially giving you more detailed pr
 
 The introduced bugs are well hidden, and the program is relatively large, making it extremely difficult to debug its poor performance without tools. You’ll want to use the tools discussed in class, and any other profiling tools you like, to track down these bugs. 
 
-Recommended tools include time, perf record, valgrind --tool=callgrind and strace -cw. Since it is quite a bit of code, you may also want to use grep to search for keywords in text files.
+Recommended tools include time, perf record, valgrind --tool=callgrind and strace. Since it is quite a bit of code, you may also want to use grep to search for keywords in text files.
 
 
 
