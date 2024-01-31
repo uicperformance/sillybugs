@@ -1,3 +1,5 @@
+#ifndef RT
+#define RT
 /*************************************************************************/
 /*                                                                       */
 /*  Copyright (c) 1994 Stanford University                               */
@@ -951,3 +953,4 @@ INT GetJob(RAYJOB *job, INT pid);
 INT GetJobs(RAYJOB *job, INT pid);
 void PrintWorkPool(INT pid);
 void InitWorkPool(INT pid);
+#endif
